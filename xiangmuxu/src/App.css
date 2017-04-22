@@ -1,0 +1,42 @@
+html,body{width: 100%;height: 100%;}
+ul,li,a{list-style: none;text-decoration: none;}
+.App-box { position: absolute; height: 100%; width: 100%; color: #ddd;z-index: 10;}
+canvas { position: absolute; top: 0; left: 0; background:#000; width:100%; height:100%; }
+#active{background:#9933CC}
+ul{margin: 0px 0 10px 15%;}
+ul li {float: left;width: 15%;height: 40px;line-height: 40px;background:deeppink;border-radius: 50%;text-align: center;margin-left: 40px;color: #FFF;}
+.firstli1{margin: 0;background:rgba(245,255,250,0.3);color: deeppink;}
+.firstli1:hover{background:rgba(245,255,250,.8);color: #fff;}
+.firstli2{background:rgba(238,130,238,0.5);color: deepskyblue;}
+.firstli2:hover{background:#FFCC66;color: #fff;;}
+.firstli3{background:rgba(176,196,222,0.4);}
+.firstli3:hover{background:#FFCC66;color: #fff;}
+.firstli4{background:rgba(138,43,226,0.5);}
+.firstli4:hover{background:#FFCC66;color: #fff;}
+.welcome{margin: 100px 0 20px 20%;font-size: 40px;color: ;font-weight: 400;width: 300px;background: ;}
+.myimg{width: 100px;height: 100px;border-radius: 50%;background: url(../public/xuyawei.jpg);background-size: cover;position: absolute;left: 10%;top:40px}
+.conent{background: ;width: 80%;margin: auto;;border-radius: 4%;}
+.one{width: 100%;height: 30%;margin-bottom: 5%;padding-left: 20px;}
+.one:hover{z-index: 100;}
+ .one1{width: 77%;height: 100%;margin-right: 13%;float: left;color: #fff;}
+.one1 p{font-size: 26px;padding-left: 40px;color: deepskyblue;margin: 10px;}
+.cccc{width:80%;height: 45%;border: 0px solid deeppink ;color:#fff;margin:150px auto;padding: 20px 10px 10px 30px;}
+.span1{display: inline-block;font-size: 20px;color: deeppink;border: 4px dotted deepskyblue;border-radius: 10%;width: 20px;height: 20px;text-align: center;line-height: 20px;padding: 15px;color: chartreuse;margin-right: 20px;margin-left: 100px;text-shadow:-5px -5px 5px #00FF00;margin-bottom: 10px;}
+.span2{display: inline-block;font-size: 20px;color: deeppink;border: 4px double deepskyblue;border-radius: 10%;width: 20px;height: 20px;text-align: center;line-height: 20px;padding: 15px;color: chartreuse;margin-right: 20px;text-shadow:-5px -5px 4px white}
+.span3{font-size: 20px;margin-right: 40px;color: #fff;}
+.span4 strong{display: inline-block;width:40px;height:30px;border: 1px dashed khaki;border-radius:50% ;margin-left: 10px;padding: 10px;font-size: 20px;text-align: center;color: #CCFF99;margin-right: 20px;}
+.span5{margin-left: 100px;margin-bottom: 10px;font-size: 20px;color: gold;}
+.span6{font-size: 20px;color: darkgrey;}
+.p1{margin-left: 100px;font-size: 20px;color:darkorange ;}
+
+
+.jinengp{padding-bottom: 15px ;border-bottom: 2px dashed brown;color: #66FFFF}
+.jinengp1{padding-bottom: 15px ;border-bottom: 1px dotted aqua;color: skyblue;}
+.jinengp2{padding-bottom: 15px ;border-bottom: 1px double navajowhite;color: skyblue;}
+.jinengp3{padding-bottom: 15px ;border-bottom: 1px dashed crimson;color: skyblue;}
+.jinengp4{padding-bottom: 15px ;border-bottom: 1px dashed #F1F1F1;color: gold}
+
+.lulip{color: skyblue;line-height: 30px;}
+.lulip1{color: #ddd;line-height: 30px;}
+ 
+.aihaop{line-height: 30px;}
