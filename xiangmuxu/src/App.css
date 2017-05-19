@@ -1,3 +1,4 @@
+/*myself_*/
 html,body{width: 100%;height: 100%;}
 ul,li,a{list-style: none;text-decoration: none;}
 .App-box { position: absolute; height: 100%; width: 100%; color: #ddd;z-index: 10;}
